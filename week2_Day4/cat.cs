@@ -46,7 +46,7 @@ namespace week2_Day4
 
         public void Eat()
         {
-            if(isHungry)
+            if(isHungry)  //this is a method
             {
                 isHungry = false;
             }
